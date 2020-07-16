@@ -36,7 +36,8 @@
       ```
 
   - Single Page Webアプリケーションを C# で開発できる点
-    - 従来では HTML + javascript が主流だったが、Blazorではjavascriptの代わりにC#が利用できる
+    - 従来では HTML + javascript が主流だったが、Blazorではjavascriptの代わりにC#が利用できる  
+      ※ ただし従来通りjavascriptも利用できる
     - なお、C#のコードをjavascriptへ変換しているのではなく、 .NETのバイナリが動く という点に注意
 - 現在BlazorはBlazor Server(.NET Core 2.1～)と  
   Blazor WebAssembly(.NET Core 3.1～)の２種類存在している  
