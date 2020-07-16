@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YIuG0KOPXQSSessC3BrvkeWjc4unqDLgTHNwbKe8zDOwEmGugVKWoEME2NvbRq9D2aNHZlc6WJXuAelpobwfnQ==",
+  "dgSpecHash": "0XdYDCG0jwzVAa2EYXEMOiAuabkzLgCx3dxJkjqNq9I46NdddSotbb7xwGplGniZMHBTUtQuKmgjFUA2zfjr9A==",
   "success": true,
-  "projectFilePath": "/workspaces/20200708/SampleApp/SampleApp.csproj",
+  "projectFilePath": "/workspaces/TIL/RemoteDevelopment/SampleApp/SampleApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -11,3 +11,16 @@
 /workspaces/20200708/SampleApp/obj/Debug/netcoreapp3.1/SampleApp.dll
 /workspaces/20200708/SampleApp/obj/Debug/netcoreapp3.1/SampleApp.pdb
 /workspaces/20200708/SampleApp/obj/Debug/netcoreapp3.1/SampleApp.genruntimeconfig.cache
+/workspaces/TIL/RemoteDevelopment/SampleApp/bin/Debug/netcoreapp3.1/SampleApp
+/workspaces/TIL/RemoteDevelopment/SampleApp/bin/Debug/netcoreapp3.1/SampleApp.deps.json
+/workspaces/TIL/RemoteDevelopment/SampleApp/bin/Debug/netcoreapp3.1/SampleApp.runtimeconfig.json
+/workspaces/TIL/RemoteDevelopment/SampleApp/bin/Debug/netcoreapp3.1/SampleApp.runtimeconfig.dev.json
+/workspaces/TIL/RemoteDevelopment/SampleApp/bin/Debug/netcoreapp3.1/SampleApp.dll
+/workspaces/TIL/RemoteDevelopment/SampleApp/bin/Debug/netcoreapp3.1/SampleApp.pdb
+/workspaces/TIL/RemoteDevelopment/SampleApp/obj/Debug/netcoreapp3.1/SampleApp.csprojAssemblyReference.cache
+/workspaces/TIL/RemoteDevelopment/SampleApp/obj/Debug/netcoreapp3.1/SampleApp.AssemblyInfoInputs.cache
+/workspaces/TIL/RemoteDevelopment/SampleApp/obj/Debug/netcoreapp3.1/SampleApp.AssemblyInfo.cs
+/workspaces/TIL/RemoteDevelopment/SampleApp/obj/Debug/netcoreapp3.1/SampleApp.csproj.CoreCompileInputs.cache
+/workspaces/TIL/RemoteDevelopment/SampleApp/obj/Debug/netcoreapp3.1/SampleApp.dll
+/workspaces/TIL/RemoteDevelopment/SampleApp/obj/Debug/netcoreapp3.1/SampleApp.pdb
+/workspaces/TIL/RemoteDevelopment/SampleApp/obj/Debug/netcoreapp3.1/SampleApp.genruntimeconfig.cache

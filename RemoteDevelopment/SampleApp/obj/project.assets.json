@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/20200708/SampleApp/SampleApp.csproj",
+      "projectUniqueName": "/workspaces/TIL/RemoteDevelopment/SampleApp/SampleApp.csproj",
       "projectName": "SampleApp",
-      "projectPath": "/workspaces/20200708/SampleApp/SampleApp.csproj",
+      "projectPath": "/workspaces/TIL/RemoteDevelopment/SampleApp/SampleApp.csproj",
       "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/workspaces/20200708/SampleApp/obj/",
+      "outputPath": "/workspaces/TIL/RemoteDevelopment/SampleApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/root/.nuget/NuGet/NuGet.Config"
@@ -56,7 +56,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
       }
     }
   }
