@@ -1,9 +1,9 @@
 <a id="markdown-1-blazorについて-blazor概要編" name="1-blazorについて-blazor概要編"></a>
-# 1. Blazorについて ~Blazor概要編~
+# 1. Blazorについて Blazor概要編
 
 <!-- TOC -->
 
-- [1. Blazorについて ~Blazor概要編~](#1-blazorについて-blazor概要編)
+- [1. Blazorについて Blazor概要編](#1-blazorについて-blazor概要編)
   - [1.1. 概要](#11-概要)
   - [1.2. Blazor ServerとBlazor WebAssemblyについて](#12-blazor-serverとblazor-webassemblyについて)
     - [1.2.1. Blazor Server](#121-blazor-server)
